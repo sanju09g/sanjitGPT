@@ -51,4 +51,4 @@ Name: Sanjit Singh
 
 GitHub: @sanju09g
 
-LinkedIn: Sanjit Singh
+LinkedIn: sanjitsingh004
